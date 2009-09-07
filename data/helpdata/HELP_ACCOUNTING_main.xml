@@ -22,18 +22,11 @@
 	xmlns:xi="http://www.w3.org/2001/XInclude"
 	xsi:schemaLocation="http://docbook.org/ns/docbook ../../../content/dtd/docbook.xsd"
 	xmlns="http://docbook.org/ns/docbook">
-	<title>The Main Accounting help screen</title>
-    <para>Introductory text</para>
+	<title>The Accounting Main help screen.</title>
+    <para>Introduction</para>
     <section>
         <title>subsection heading</title>
         <para>Subsection content</para>
-    </section>
-	<section>
-        <title>Subsection 2 title</title>
-        <para>
-		The Main accounting help screen. For more information please 
-		see the <link xl:href="http://docs.ofbiz.org">OFBiz documentation site</link> for more info.
-        </para>
     </section>
 </section>
 
